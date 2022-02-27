@@ -1,4 +1,5 @@
-![Data Anlayst](https://www.iav.com/app/uploads/2021/07/cropped-codekata-16-9.png)
+<img src="https://github.com/Ritwaj-1/Ritwaj-1/blob/main/Analytics.gif" width="550" height="320" />
+
 #  Ritwaj Dubey
 ### Data Analyst 💻
 
