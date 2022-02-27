@@ -1,4 +1,4 @@
-![Data Anlayst](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVW8IM_GE-j5cqeQTW9WOqlQDUGHeMfcmFg&usqp=CAU)
+![Data Anlayst](https://www.iav.com/app/uploads/2021/07/cropped-codekata-16-9.png)
 #  Ritwaj Dubey
 ### Data Analyst 💻
 
