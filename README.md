@@ -7,10 +7,10 @@ Right from childhood, I was fond of movies like Sherlock Holmes. A detective put
 
 Specializing in analytics, visualization, and automation. Industry experience in collecting, organizing, interpreting, and disseminating various types of statistical figures.Expert at providing realistic projections and establishing various scenarios to determine viable process strategies to utilize. 🕵️
 
-## Example of a Learning Project
+## Example of a Project
 <img src="https://github.com/Ritwaj-1/Ritwaj-1/blob/main/IPL%20Data%20Analysis.gif" width="256" />
 
 Skills: Python / SQL / BI-Tools / Excel / 
 
-- 🌱 I’m currently learning ARIMA Model
+- 🌱 Currently Exploring the future, The Generative AI
 - 📸 Photographer in mean time
